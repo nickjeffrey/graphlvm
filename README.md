@@ -8,11 +8,7 @@ GraphLVM for AIX is a Perl program that creates a visual representation of the A
 Here is an example diagram created from the script:
 <img src=images/graphlvm1.png>
 
-<img src=images/graphlvm2.png>
 
-<img src=images/graphlvm3.png>
-
-<img src=images/graphlvm4.png>
 
 # Installation / Use
 
